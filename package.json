@@ -1,0 +1,12 @@
+{
+  "name": "lumgwun-company-profile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static Cloudflare Pages deployment for Lumgwun Solutions & Awajimaa Group.",
+  "scripts": {
+    "build": "node -e \"console.log('Static profile build is ready.')\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
